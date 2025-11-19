@@ -4,7 +4,7 @@
   align-items:center;
   width:100vw;
   height: 100vh;
-  background: url('./resources/bg.jpg');
+  background: url('./resources/bgnew.png');
   background-size: cover;
 }
 
@@ -14,6 +14,7 @@
   backdrop-filter: blur(3px);
   padding: 0px 16px 16px 16px;
   border-radius: 16px;
+  
 }
 .socialLogin{
   display: flex;
